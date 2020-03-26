@@ -1,2 +1,2 @@
 # Pacman-Java-Game
-Its a java project, well known game (Pacman)
+Its a java project.
