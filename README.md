@@ -1,2 +1,5 @@
-# Pacman-Java-Game
-Its a java project.
+# Pacman: Java Game
+
+### Its a prototype of famous pacman man game.
+### Language:
+* Java
